@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hoder-zyf祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
-
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -12,151 +8,13 @@
     <img src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://twitter.com/Hoder_zyf/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@Hoder_zyf"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://hoder-zyf.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Hoder-zyf&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@Hoder_zyf"><img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" /></a>
-
-  </div>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-</div>
 
 #  🙋 Hello
-
-<table>
-  
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/technologist.png" />
-
-- 正在寻找合适的工作机会 &emsp; 📌 持续学习中
-
-  - 目标岗位：软件开发工程师
-  - 技能方向：全栈开发、前端技术、后端开发
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/rocket.png" />
-
-- 个人项目开发 &emsp; 📌 持续进行中
-
-  - 项目类型：开源项目贡献
-  - 技术栈：JavaScript、Python、React等
-
-</td></tr>
-
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Hoder_zyf&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Hoder_zyf&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hoder_zyf&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                673 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌆 Daytime                814 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                585 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-🌙 Night                  436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Friday                   630 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               27 hrs 43 mins      ████████████████████████░   97.38 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-🔥 Editors: 
-VS Code                  28 hrs 27 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/07/2025 00:47:31 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
-</table>
-
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/hr.gif" />
 
 <div align="center">
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/man_run.png" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hoder-zyf&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hoder-zyf&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hoder-zyf&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
 <img src="https://cdn.jsdelivr.net/gh/Hoder-zyf/Hoder-zyf/github-metrics/base.svg" />
