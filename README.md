@@ -43,13 +43,12 @@
 <div align="center">
 
 <!-- second form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="./github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="./github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-     <td><img src="./github-metrics/activity.svg" alt="activity" /></td>
-    </tr>
-</table>
+<!-- 三张大图铺满屏幕 -->
+<div style="display: flex; flex-direction: column; width: 100%; gap: 10px;">
+  <img src="./github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" style="width: 100%; height: auto; border-radius: 8px;" />
+  <img src="./github-metrics/habits.charts.svg" alt="habits.charts" style="width: 100%; height: auto; border-radius: 8px;" />
+  <img src="./github-metrics/activity.svg" alt="activity" style="width: 100%; height: auto; border-radius: 8px;" />
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="./assets/images/hr.gif" />
