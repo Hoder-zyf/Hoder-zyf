@@ -8,8 +8,6 @@
     <img src="./assets/images/coding.gif" />
   </picture>
 
-<h2>🙋 Hello, I am Yifei Zhang, you can learn more about me from <a href="https://hoder-zyf.github.io/" target="_blank">my personal webiste</a>.</h2>
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
